@@ -1,4 +1,4 @@
-- Hi there 👋 I'm Jeremy.
+Hi there 👋 I'm Jeremy.
 - 👀 I’m interested in Web front end
 - 🌱 I’m currently learning HTML,CSS,JavaScript
 
